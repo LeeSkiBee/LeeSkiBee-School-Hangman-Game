@@ -1,0 +1,13 @@
+batman			|		Bruce Wayne
+mercury			|		Planet closest to the sun
+king			|		A name for a male ruler of a country
+spiderman		|		Peter Parker
+sun				|		Star in the Solar System
+stan lee		|		Not Stanley
+wrench			|		If you can dodge one of these, you can dodge a ball
+darth vader		|		Luke Skywalker's father
+gary			|		Spongebob's Snails name
+home			|		E.T. wants to phone his...
+terminator		|		He'll be back
+floor			|		Let the bodies hit the...
+dinosaur		|		open the door, get on the floor, everybody walk the...
