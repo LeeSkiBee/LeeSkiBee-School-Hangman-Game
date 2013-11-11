@@ -5,4 +5,4 @@ A hangman game created in Visual Basic from a provided requirements specificatio
 -------
 
 ##Screenshot:
-![Game Screenshot]("/Screenshots/3_Game_Won.PNG")
+![Game Screenshot](/Screenshots/3_Game_Won.PNG)
